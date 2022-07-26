@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  AttributedString
+//  DSLCollection
 //
-//  Created by Ryan on 2022/7/25.
+//  Created by Ryan on 2022/7/26.
 //
 
 import UIKit
